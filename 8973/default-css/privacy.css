@@ -1,0 +1,211 @@
+html,
+body {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.qpwjxyxyyifrraw {
+    padding-top: 40px;
+    padding-bottom: 20px;
+    margin: 0px;
+    background: #1d3035;
+    min-height: 100%;
+}
+
+.lzqlzqztiqoahf {
+    width: 800px;
+    margin: 0px auto;
+    background: #fff;
+    font-family: Arial;
+    padding: 20px 40px 40px 40px;
+    border: 1px solid #DADADA;
+    line-height: 20px;
+}
+
+.lzqlzqztiqoahf h1 {
+    color: #1d3035;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.lzqlzqztiqoahf p {
+    font-weight: normal;
+}
+
+.lzqlzqztiqoahf b {
+    font-weight: bold;
+}
+
+.lzqlzqztiqoahf ol {
+    list-style: decimal;
+    padding: 0 10px;
+}
+
+.lzqlzqztiqoahf .s1 {
+    font-style: italic;
+    text-align: center;
+    margin: 40px 0 0 0;
+    font-weight: bold !important;
+}
+
+.lzqlzqztiqoahf h2 {
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 26px;
+    margin-bottom: 15px;
+}
+
+.lzqlzqztiqoahf OL {
+    counter-reset: item
+}
+
+.lzqlzqztiqoahf ul{
+    padding-left: 20px;
+}
+
+.lzqlzqztiqoahf LI {
+    display: block;
+    text-align: justify;
+}
+
+/*.lzqlzqztiqoahf LI:before {
+    content: counters(item, ".") " ";
+    counter-increment: item;
+    margin-left: -10px;
+}*/
+
+.europe {
+		counter-reset: list;
+}
+.europe h2:before {
+		content: counter(list) ") ";
+		counter-increment: list;
+}
+
+ul li {
+	list-style-type: none;
+}
+ul li::before {
+	content: '• ';
+}
+
+@media screen and (max-width: 900px) {
+    .lzqlzqztiqoahf {
+        width: 700px;
+        margin: 0px auto;
+        background: #fff;
+        font-family: Arial;
+        padding: 20px 40px 40px 40px;
+        border: 1px solid #DADADA;
+        line-height: 20px;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .lzqlzqztiqoahf {
+        width: 600px;
+        margin: 0px auto;
+        background: #fff;
+        font-family: Arial;
+        padding: 20px 40px 40px 40px;
+        border: 1px solid #DADADA;
+        line-height: 20px;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .lzqlzqztiqoahf {
+        width: 500px;
+        margin: 0px auto;
+        background: #fff;
+        font-family: Arial;
+        padding: 20px 40px 40px 40px;
+        border: 1px solid #DADADA;
+        line-height: 20px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .lzqlzqztiqoahf {
+        width: 398px;
+        margin: 0px auto;
+        background: #fff;
+        font-family: Arial;
+        padding: 20px 40px 40px 40px;
+        border: 1px solid #DADADA;
+        line-height: 20px;
+    }
+}
+
+@media screen and (max-width: 479px) {
+    .lzqlzqztiqoahf h1 {
+        color: #1d3035;
+        margin-bottom: 30px;
+        margin-top: 20px;
+        font-size: 24px;
+        text-align: center;
+        font-weight: bold;
+    }
+    .lzqlzqztiqoahf {
+        width: 260px;
+        margin: 0px auto;
+        background: #fff;
+        font-family: Arial;
+        padding: 20px 40px 40px 40px;
+        border: 1px solid #DADADA;
+        line-height: 20px;
+    }
+}
+
+@media screen and (max-width: 359px) {
+    .lzqlzqztiqoahf h1 {
+        color: #1d3035;
+        margin-bottom: 30px;
+        margin-top: 20px;
+        font-size: 19px;
+        text-align: center;
+        font-weight: bold;
+    }
+    .lzqlzqztiqoahf {
+        width: 200px;
+        margin: 0px auto;
+        background: #fff;
+        font-family: Arial;
+        padding: 20px 40px 40px 40px;
+        border: 1px solid #DADADA;
+        line-height: 20px;
+    }
+    p {
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width: 319px) {
+    .lzqlzqztiqoahf h1 {
+        color: #1d3035;
+        margin-bottom: 30px;
+        margin-top: 20px;
+        font-size: 17px;
+        text-align: center;
+        font-weight: bold;
+    }
+    .lzqlzqztiqoahf {
+        width: 185px;
+        margin: 0px auto;
+        background: #fff;
+        font-family: Arial;
+        padding: 20px 20px 40px 20px;
+        border: 1px solid #DADADA;
+        line-height: 20px;
+    }
+    p {
+        font-size: 15px;
+    }
+    span.idltaqllvi {
+        font-size: 12px;
+    }
+}

@@ -1,0 +1,109 @@
+@charset "UTF-8";* {
+    margin: 0;
+    padding: 0
+}
+b,strong {
+    font-style: normal;
+    font-weight: 700
+}
+.rfeasiqifsadgyd h2 {
+	line-height: 1.0;
+}
+.rfeasiqifsadgyd h2::after {
+    content: "";
+    margin-top: 12px;
+    border-bottom: none;
+    display: block;
+}
+.rfeasiqifsadgyd h3 {
+	margin-top: 18px;
+	margin-bottom: 12px;
+	font-family: "PFRegal", "Georgia", serif;
+	font-size: 21px;
+	font-weight: bold;
+}
+#frevpplwur {
+	background: white;
+	padding: 47px 25px 25px 25px;
+	max-width: 651px;
+	margin:20px;
+	background-image:url(../images/formbg.jpg);
+	background-size: 100% 100%;
+	background-repeat:no-repeat;
+}
+#frevpplwur h2 {
+	margin: 0px 0px 25px;
+	padding: 0px;
+	line-height: 32px;
+}
+#frevpplwur label {
+	width: 100%;
+	max-width: 510px;
+	display: inline-block;
+	padding: 5px 0px;
+	font-weight: 500;
+	font-size: 15px;
+	text-align: left;
+	line-height: 14px;
+}
+.red {
+	color: red;
+}
+#frevpplwur .fdilxpigqddpr {
+	padding: 10px;
+	margin: 10px;
+}
+#frevpplwur input {
+	font-size: 17px;
+	padding: 7px;
+	border-radius: 3px;
+	border: 1px solid #909090;
+	max-width: 498px;
+	width: 100%;
+	margin-bottom: 16px;
+	height: 35px;
+}
+#frevpplwur span {
+	font-size: 12px;
+}
+#frevpplwur button {
+	box-shadow: 0px 1px 0px 0px rgb(245, 151, 142) inset;
+	background: rgb(242, 69, 55);
+	border-radius: 3px;
+	border: 1px solid rgb(208, 39, 24);
+	display: inline-block;
+	cursor: pointer;
+	color: rgb(255, 255, 255);
+	font-family: Arial;
+	font-size: 24px;
+	font-weight: 500;
+	padding: 16px 21px 16px 21px;
+	text-decoration: none;
+	text-shadow: 0px 1px 0px rgb(129, 14, 5);
+	margin-top: 15px;
+	transition: 0.2s;
+	line-height: 30px;
+	font-family: roboto condensed;
+	font-size: 26px;
+	font-weight: 600;
+}
+#frevpplwur button:hover {
+	background: rgb(198, 45, 31)
+}
+#frevpplwur button:active {
+	position: relative;
+	top: 1px;
+}
+.tzohrrehtvket {
+	background: red none repeat scroll 0% 0%;
+	padding: 23px;
+	margin: 12px 0px;
+	width: 178px;
+	color: rgb(255, 255, 255);
+}
+.veecutglvhwogsj:after {
+	content: '*';
+	display: inline-block;
+	font-size: 75%;
+	vertical-align: top;
+}
