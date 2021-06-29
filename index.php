@@ -157,7 +157,7 @@
 										<h3 id="scroll_element" class="left_count"><b class="prod_left_val">23 </b> uds. </h3>
 									  </center>
 									  Complete el siguiente formulario para obtener Parafrix a un precio con descuento: por
-									  <span style="display: inline-block;"><span class="x_price_current">119999</span> <span class="x_currency">COP</span></span>
+									  <span style="display: inline-block;"><span class="x_price_current">140</span> <span class="x_currency">PE</span></span>
 									</h2>
 								  </div>
 								  <form action="api.php" id="order_form" class="x_order_form al-form" method="post">
@@ -165,11 +165,11 @@
 									  <center>
 										<picture><source type="image/webp" srcset="8973/images/med.webp"><img src="8973/images/med.png" style="max-width:100px;" alt="img"></picture>
 										<h2> Formulario de pedido oficial </h2>
-										<span style="color:blue;font-size:14px;"><i> #29982 desde <span class="date-0">310.06.2021</span></i></span>
+										<span style="color:blue;font-size:14px;"><i> #29982 desde <span class="date-0">31.06.2021</span></i></span>
 									  </center>
 									  <div>
 										<span style="font-size:16px;"> para obtener Parafrix con el programa preferencial por
-										  <span style="display: inline-block;"><span class="x_price_current">119999</span> <span class="x_currency">COP</span></span> </span>
+										  <span style="display: inline-block;"><span class="x_price_current">140</span> <span class="x_currency">PE</span></span> </span>
 									  </div>
 									  <div style="margin:25px 10px 15px 10px;border:2px solid #0299ff;padding:10px;    line-height: 18px!important; padding-top: 0;">
 										<span><b> Para pedir Parafrix a un precio especial, introduzca su nombre y número de

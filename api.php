@@ -16,9 +16,9 @@ try{
         'region'        => $_POST['region'] ?? null,
         'city'			=> $_POST['city'] ?? null,
         'count'			=> $_POST['count'] ?? null,
-        'offer_id'		=> '3745',
-        'stream_id'		=> '123548',
-        'country' 		=> 'CO',
+        'offer_id'		=> '3746',
+        'stream_id'		=> '123637',
+        'country' 		=> 'PE',
         'tz' 			=> '',
         'address' 		=> $_POST['address'] ?? null,
         'email' 		=> $_POST['email'] ?? null,
@@ -52,7 +52,7 @@ class CApiConnector
 {
     public $config = array(
         'api_key' => '56df1e0013c89ca2a808f27f2ed2ea87',
-        'offer_id' => '3745',
+        'offer_id' => '3746',
         'user_id' => '24446',
         'api_domain' => 'http://tl-api.com',
     );
