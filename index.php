@@ -26,18 +26,7 @@
 <body>
     <div class="payment_timeout" style="display:none !important">0</div>
     <div class="s__main">
-        <div class="fadepopup">    <div class="modal-block">  <div class="oui">  <div class="close"> X</div>
-                    <div class="ouimain">
-                        <div class="ouimain-text-img">
-                            <div class="img_prod"> <img src="8973/images/product.png"></div>
-                            <div class="ouimain-text">
-                                <p class="r_2">¡ATENCIÓN! <br> <span class="mofr"> ¡Puede ordenar Parafrix para reparar sus articulaciones a un precio especial! </span><br></p> <a class="r_1" href="#order_form"> MÁS DETALLES </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+
         <div class="eeee"></div>
         <div id="tira_ws_content_1">
             <div class="header">
