@@ -20,7 +20,7 @@
     <link href="8973/css/index.css" media="all" rel="stylesheet" type="text/css">
 	<link rel="stylesheet" href="8973/css/forms.css" type="text/css">
 	<script type="text/javascript" src="script_land.js" defer></script>
-    <script src="tl-validator.js?country=co&label=false"></script>
+    <script src="tl-validator.js?country=pe&label=false"></script>
 </head>
 
 <body>
