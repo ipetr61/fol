@@ -1,459 +1,697 @@
-<!DOCTYPE html>
-<html dir="ltr" lang="ru">
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html >
 <head>
-    <!-- Global site tag (gtag.js) - Google Ads: 403226205 -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-403226205"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+<title>Impulse - фитнес клуб, Владикавказ - Добро пожаловать на сайт фитнес клуба "Impulse"!</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 
-  gtag('config', 'AW-403226205');
-</script>
 
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <link rel="icon" href="8973/images/favicon.ico" type="image/x-icon">
-    <title> Comprar Parafrix a buen precio Precios, opiniones. ¡Ordene Parafrix Ahora!</title>
-    <meta content="telephone=no" name="format-detection">
-    <meta content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" name="viewport">
-    <link href="8973/css/index.css" media="all" rel="stylesheet" type="text/css">
-	<link rel="stylesheet" href="8973/css/forms.css" type="text/css">
-	<script type="text/javascript" src="script_land.js" defer></script>
-    <script src="tl-validator.js?country=pe&label=false"></script>
+<meta name="yandex-verification" content="">
+
+            
+
+            <link rel="icon" type="image/png" href="905.png">
+
+            
+            <!-- <script src='//expert-poisk.ru/subdomains/files/js/jquery-1.11.3.min.js'> </script> -->
+            <link href="sumoselect.css" rel="stylesheet" type="text/css">
+            
+
+            
+            
+
+            <!--<script src='//api-maps.yandex.ru/2.0-stable/?load=package.standard,package.geoObjects,package.clusters&lang=ru-RU' type='text/javascript'></script>-->
+
+            <link rel="stylesheet" href="imageflow.css" type="text/css">
+            
+
+            
+
+            <!-- nino slider -->
+            
+
+            <!-- slider vaccordion -->
+            
+            
+            
+
+            <!-- slider lofslidernews -->
+            
+            
+        
+	            <!-- lightbox -->
+	            
+	            <link rel="stylesheet" type="text/css" href="jquery.lightbox-0.5.css">
+	        <!-- jqzoom -->
+            
+            <link rel="stylesheet" type="text/css" href="jquery.jqzoom.css">
+
+            <!-- Cloud Carousel -->
+            
+
+            
+            <link rel="stylesheet" type="text/css" href="highslide.css">
+            
+
+            <!-- fancybox -->
+            
+            <link rel="stylesheet" href="jquery.fancybox.css" type="text/css">
+
+            <!-- Elastislide -->
+            
+            <link rel="stylesheet" type="text/css" href="elastislide.css">
+
+            <!-- CSlider -->
+            
+            <link rel="stylesheet" type="text/css" href="style.css">
+
+            <!--  JFlow -->
+            
+            <link rel="stylesheet" type="text/css" href="jflow.style.css">
+
+            <style>
+                html,body{margin:0;padding:0;height:100%; background: url("fon-dlia-inpulse.jpg") no-repeat !important;}table{margin:0;padding:0px !important;}
+
+div#container{background:none !important;}
+div#content{background: none !important;  }
+.mainCol{background: rgb (255,255,255) !important;  }
+div#extra{background: none !important; }
+.leftSide{background: none !important;  }
+.rightSide{background: none !important;  }
+
+#pageWraper {
+    padding-bottom: 0px !important;
+}
+                .pagetitleText {font-size:20px;}
+                /* call back dialog style */
+                .callback_dialog{
+    display: none;
+    width: 577px;
+        min-height: 390px;
+        position: fixed;
+        border-radius: 16px;
+        top: 50px;
+        background-color: rgba(255, 255, 255, 0.85);
+        margin: 0px auto;
+        z-index:8889;
+        color: #333;
+        font-weight: 100;
+        letter-spacing: normal;
+        font-family: 'Open Sans',sans-serif;
+        left:0;
+        right:0;
+        }
+        .callback_close{
+    position: absolute;
+        right: 25px;
+        top: 23px;
+        height: 15px;
+        width: 15px;
+        background: transparent url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAACXBIWXMAAAsTAAALEwEAmpwYAAABNmlDQ1BQaG90b3Nob3AgSUNDIHByb2ZpbGUAAHjarY6xSsNQFEDPi6LiUCsEc\
+        XB4kygotupgxqQtRRCs1SHJ1qShSmkSXl7VfoSjWwcXd7/AyVFwUPwC/0Bx6uAQIYODCJ7p3MPlcsGo2HWnYZRhEGvVbjrS9Xw5+8QMUwDQCbPUbrUOAOIkjvjB5ysC4HnTrjsN/sZ8mCoNTIDtbpSFICpA/0KnGsQYMIN+qkHcAaY6addAPAClXu4vQ\
+        CnI/Q0oKdfzQXwAZs/1fDDmADPIfQUwdXSpAWpJOlJnvVMtq5ZlSbubBJE8HmU6GmRyPw4TlSaqo6MukP8HwGK+2G46cq1qWXvr/DOu58vc3o8QgFh6LFpBOFTn3yqMnd/n4sZ4GQ5vYXpStN0ruNmAheuirVahvAX34y/Axk/96FpPYgAAACBjSFJNA\
+        AB6JQAAgIMAAPn/AACA6AAAUggAARVYAAA6lwAAF2/XWh+QAAAAzElEQVR42qyTsRHCMAxFX7xBVoARpFVghKSjhRUyAhmBFVjhMwsDUIgCwwWwA3egOzey35Nt2ZhZa2ariOCbYbdYRAQJOAIHd+/4EO5ueb3cvU3AmOf2c4IJ2AKDpHOSNAIOnLNgW\
+        wBXE7CXNAA0EVEyj5L6nO+Affb0uRhPcEkAnGrgG1wQUAMB0mtC0gnYABcggG0J/G/lwpn7uTamGijpXq0qSAVwd29TvoMRWE/ewUPQmFk3147KznaShsbMBNgcWBAALPnlV10HACwiuaGZ5ZweAAAAAElFTkSuQmCC') no-repeat scroll center center;
+        opacity: 0.3;
+        cursor: pointer;
+        border-radius: 2px;
+        }
+        .callback_body{
+        width: 450px;
+        padding-left: 55px;
+        top: 80px;
+        margin: 60px auto 30px;
+        }
+        .callback_name{
+    font-size: 24px;
+        line-height: 34px;
+        text-align: left;
+        letter-spacing: normal;
+        height: auto;
+        margin-bottom: 5px;
+        }
+        .callback_descr{
+    font-size: 14px;
+        text-align: left;
+        letter-spacing: normal;
+        height: auto;
+        position: relative;
+        margin-bottom: 5px;
+        }
+        .callback_arrow{
+    width: 37px;
+        height: 62px;
+        position: absolute;
+        background: transparent url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACUAAAA+CAYAAACsj9JbAAAACXBIWXMAAAsTAAALEwEAmpwYAAABNmlDQ1BQaG90b3Nob3AgSUND\
+        IHByb2ZpbGUAAHjarY6xSsNQFEDPi6LiUCsEcXB4kygotupgxqQtRRCs1SHJ1qShSmkSXl7VfoSjWwcXd7/AyVFwUPwC/0Bx6uAQIYODCJ7p3MPlcsGo2HWnYZRhEGvVbjrS9Xw5+8QMUwDQCbPUbrU\
+        OAOIkjvjB5ysC4HnTrjsN/sZ8mCoNTIDtbpSFICpA/0KnGsQYMIN+qkHcAaY6addAPAClXu4vQCnI/Q0oKdfzQXwAZs/1fDDmADPIfQUwdXSpAWpJOlJnvVMtq5ZlSbubBJE8HmU6GmRyPw4TlSaqo6\
+        MukP8HwGK+2G46cq1qWXvr/DOu58vc3o8QgFh6LFpBOFTn3yqMnd/n4sZ4GQ5vYXpStN0ruNmAheuirVahvAX34y/Axk/96FpPYgAAACBjSFJNAAB6JQAAgIMAAPn/AACA6AAAUggAARVYAAA6lwAAF\
+        2/XWh+QAAAD50lEQVR42szaeYydUxjH8c+9ndZaqmQ0isYS1aDCqKYJEYJYGqQhYpkqaaolFVIR+x+WP9TyRy1tUWJKEFKxBKkSWxrhLYJGpbGVVGWkWtsos/jjPDe5mO3OvHfmfZKb++bc9z33e59z\
+        znOe83tuqampSY62FyZgKibjcEzCDjX0MaMhB5AxmIKzMBujov03bMIn+BV/9bO/jYOB2g2zcFF4BN7GO/gMn+NbbOmtkyzL/tc2UKgrMA8HhwduwWt4D+2DdX2tUEfhHhyLNlyNZ7Ahz4lZC9QcLEE\
+        Jj+HamDO5W3+hFmE+Nsb7CnW0vqC2w3Kcg7dwMb5WZ+sNamQV0FOx0rYZAusN6o4AehLN6DBEVu6h/TJchZURh4YMqCeoJtyLnzAXfxtiK3cznA9Fe/NQTOr+QM3HEXgQrxomq4Yaj2vQiusMo1Wvvv\
+        MwLry1eTihylU7/lz8jKcNs1WgjsMBuDOGb9ihGnBBpBwvK4CV0RhZ42p8WhSoieGtN9FZFKhpcV0IL1WgjsTv+LJIUJPwA74qEtSE2Hy3FglqpzgEKBKUGg6KQwpVLhpUJ7YvGlQrRhfJW+UIBY2hm\
+        BQGah32iNBQGKj3Q745qEhQq+N6SpGgvgnV5HTsXhSoX/A49q3KGAoRPJ+P9wuLBPUxVuFcSZ0rzN63KK6vLwoUvCJpUM04pihQ7bgJXbhP0qeGHYokNy+RJOjbigJVmVPrQlc4syhQW3B2pMeP4LAi\
+        QMFanI+xkmg/ucZ+GzEdh+QJJY7wl2DPWJUn1NDvWNwolUXmSdp7LlDwqKR5jsHrksDfny/YIBUAOvEAnq3F2/3JNltwGn7EUjwc+2R3VgoJ4A8sxikBNAPvxuLZOQ+oSmCdhhdjSNdEkB3Vzb0jqtr\
+        XYGY8s0mSwVfi+DygSKLsGTGEI8ODb+DSqoNHV7yqFcK2mAYn4674cauwsKcUvDTAyuj+UsGxoo2uD8AnImnsTXefjLtxolSgXIgVWZa1DRaqYvtJ9Zo5sUo7I859EGn2WnwnyZZbw2t/Strq5Vgg6f\
+        TLsTiLimQppxpyGSfFPDs6QsIuNe6f62PFtpRyLmxXbCIOjGHeRxJ6d6z6vCO8NjrumRrtrZjZUAegMr6IV1/33RBJ5Wa8EGn5R3lDlWL19Wa74lapQjYuVuLteCnLsm0MvLDdG1Q5hue/cHtLBfHZM\
+        ZwfRv7WkmXZv1SfegxfQ6zCCtT4CJ6zYv58H/viUnTk+ReAnqwr8v3OyBROlSryh8b5ckGcBdr7+lV5Q3VJtecrI7i24WYskwrj/XJ1PWyEpDbfj+ciw6hp/OthbbE3LhvIw/8MAEZL3pSMpxnpAAAAAElFTkSuQmCC') repeat scroll 0% 0%;
+        left: -48px;
+        bottom: -35px;
+        opacity: 0.75;
+        }
+        .callback_oblig{
+    color:red;
+}
+        .callback_caption{
+    font-size: 14px;
+        color: #333;
+        display: block;
+        }
+        .callback_row{
+    width: 100%;
+    float: left;
+    margin: 5px;
+        }
+        .callback_input{
+    min-width: 164px;
+        width: 400px;
+        height: 25px;
+        border: 1px solid #333;
+        font-size: 14px;
+        border-radius: 4px;
+        background: transparent none repeat scroll 0px 0px;
+        color: #333;
+        margin: 0px 15px 0px 0px;
+        padding: 0px 8px;
+        text-align: left;
+        letter-spacing: normal;
+        left: auto;
+        }
+        .callback_textarea{
+    min-width: 164px;
+        width: 400px;
+        border: 1px solid #333;
+        font-size: 14px;
+        border-radius: 4px;
+        background: transparent none repeat scroll 0px 0px;
+        color: #333;
+        margin: 0px 15px 0px 0px;
+        padding: 0px 8px;
+        text-align: left;
+        letter-spacing: normal;
+        left: auto;
+        resize: none;
+        }
+        .callback_select{
+    min-width: 164px;
+        width: 400px;
+        height: 25px;
+        border: 1px solid #333;
+        font-size: 14px;
+        border-radius: 4px;
+        background: transparent none repeat scroll 0px 0px;
+        color: #333;
+        margin: 0px 15px 0px 0px;
+        padding: 0px 8px;
+        text-align: left;
+        letter-spacing: normal;
+        left: auto;
+        }
+        /* reset sumo select */
+        .SumoSelect > .CaptionCont{
+        border-radius: 4px;
+        background-color: inherit;
+        border: 1px solid #333;
+        }
+        .callback_checkbox{
+    font-size: 14px;
+        }
+        .callback_radio{
+    font-size: 14px;
+        }
+        .callback_submit{
+    font-size: 14px;
+        font-size: 14px;
+        color: #fff;
+        background-color: #333;
+        border-radius: 7px;
+        height: 35px;
+        border: 1px solid;
+        cursor:pointer;
+        }
+        .callback_submit:hover{
+    background-color: #53aff5;
+        transition: all 0.25s ease-out 0s;
+        webkit-transition: all 0.25s ease-out 0s;
+          -moz-transition: all 0.25s ease-out 0s;
+            -o-transition: all 0.25s ease-out 0s;
+        }
+    .mailTxt:focus{outline: none;border:1px solid #53aff5;}
+    #formdialogOverlay{display: none;width:100%;height:100%;position:fixed;top:0;left:0;background-color: rgba(0, 0, 0, 0.3);z-index:8888;cursor:pointer;}
+    .output{height:20px;margin:0px}
+        .errorInp{border:1px solid red;}
+        .FormsInfo{font-size: 35px}
+        .callbackName{font-size:30px}
+                /* header footer div style */
+                #headerMain{height:245px;} .wideHeader{background: rgba(255,255,255,0) url("905_header.png") no-repeat scroll center center;}
+                #footerContent{height:235px;} .wideFooter{background: #000000 url("905_footer.jpeg") no-repeat scroll center center;}
+                /* modal window */
+                .modal_content{}
+                .overlay_modal{display:none;width:100% !important;height:100% !important;position:fixed;z-index:0;top:0;left:0;background-color: rgba(0,0,0,0.3);}
+                .modal_div, .modal_window {display:none;}
+                .modal_window {position: fixed; min-width: 250px;min-height: 100px;padding: 30px 20px 20px;background-color:rgba(255, 255, 255, 0.85);z-index:5000;
+                    box-shadow: 0px 0px 20px 1px #808080;-webkit-box-shadow:0px 0px 20px 1px #808080; -moz-box-shadow:0px 0px 20px 1px #808080;border-radius:16px;-moz-border-radius: 16px;-webkit-border-radius: 16px;}
+                .blurPage{ -webkit-filter: blur(3px);  -moz-filter: blur(3px);  -o-filter: blur(3px);  -ms-filter: blur(3px);  filter: blur(3px);}
+                .close_modal_w{color:#3b8da1;position:absolute;right:10px;top:8px;cursor:pointer;height:20px;width:20px;
+                    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAQAAAAngNWGAAAABGdBTUEAAYagMeiWXwAAAAJiS0dEAP+Hj8y/AAAACXBIWXMAAABIAAAASABGyWs+AAACK0lEQVQozz2SPUiVYRiGr+d5vuM5xyzRfuRIEi5NQYh\
+                    Fv0vJkQoCC/qhoYamhqIaGhoqa3CooIZqCgkjnbKlHJJ+EDGTlqKxIRrMqVTS853zve/TcLL5vm64ubilCwCMQI6DnKCb9ThzzDAs4xqCSQCQrhWsh7tsxZF6E0eY5hJTmAWwUh27xiBt4v9BFxfo4Cy/mXJbcCsZgev0kymZqYogiEjUKBY8cohffMibdMEBxgiqy9LKEgFD\
+                    qFIgxzwFj47IHqbUjJugLEsrI/TzByFS4zaDFElFHfFbFaytj8sSM2vhKR1spoOXOPfZz1r28opM1elseJ9wFHBjia9sIuUIKY2UScnzhRTFI+Z9Cd3gKtS4SJU+Mk4CGXmGuMEaBBdge0JbXVrCaq5Q5Tg1hITHDNCC4yBASfG6X8HJUYR/IovYSgSAylwdq1LhHofJSEjIO\
+                    MUACwQEHGRWmQGJkQKPKJOS8JhhElKOcg/FwUE/JvY8O4M6DZSAPEMMkFCkD2gnoYaYeP6FuGybjLs0VKyRZ3ziKq1EFrlPO6dxGkKw3OuZXtmB9qTjMZim0kiKoEBAMSrkY8Bo3h2mbZ3VvhXSWI4h55lqfRUKRHIhoNZ0fn40Nbvj72x+oqUSe4NKJK68USJES6TpwuwD7H\
+                    Mwod0XLUw0v4lbfCPiiiAIqlKYXHtscTRn58IRpMwqlB/2JIzZWHn5RNbtGwT5mcysHnn4tjPutH0h5Tt/AebR2xJu/0qAAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE1LTEwLTEyVDEyOjU2OjI4KzAzOjAwtvQTpQAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNS0xMC0xMlQxMjo\
+                    1NjoyOCswMzowMMepqxkAAAAASUVORK5CYII=');
+                }
+                #mailSendMessage{display:none;min-width: 250px !important;min-height: 60px !important;padding: 30px 20px 20px;background-color: rgb(255, 255, 255);
+                    z-index: 5000;box-shadow: 0px 0px 20px 1px #808080;border-radius: 16px;}
+                
+                div.menuOverlay{z-index:10;}
+            </style>
+        
+<meta name="keywords" content="">
+<meta name="description" content="">
+
+
+
+
+
+
+<link rel="stylesheet" href="slideviewer.css" type="text/css" media="screen">
+<link href="jquery.fancybox-1.css" rel="stylesheet" type="text/css">
+
+
+<style type="text/css">
+
+/* САМЫЕ ОСНОВНЫЕ СТИЛИ ДЛЯ ВСЕЙ СТРАНИЦЫ */
+	html,body{margin:0;padding:0;height:100%}
+	table{margin:0;padding:0;}
+	body{font: 96% arial,sans-serif;text-align:center;}
+	a{color: #000;}
+	a img{border:0}
+	h1{font-size:28px;}
+/* СТИЛИ РАЗМЕТКИ И СТИЛИ СОДЕРЖИМОГО ОСНОВНЫХ БЛОКОВ */
+	#headerMain{width:1000px;}
+	#container{width:1000px;margin:0 auto; text-align:left;}
+	#header {border:0px solid;font-size:20px;height:0px; padding-top:0px;}
+	#wrapper{float:left;width:100%;padding-bottom: 25px;}
+	#content{position:relative;margin-left: 0px;padding-left: 25px;padding-right: 25px;}
+	#content p{line-height:1.4}
+	#contentTopBlock{min-height:0px;position:relative;}
+	#pageWraper{padding-top:3px;padding-left:26px;padding-right:22px;position:relative;padding-bottom:20px;}
+	#pageWraper p{font-size:15px;}
+	#pageTitle{margin-bottom:15px;font-size:17px;color:#484848;}
+	#footer{width:1000px;}
+	#footer p{padding:5px 10px;}
+	#footerContent{padding-top:20px;}
+	#counter{float:left; margin-left:20px;margin-bottom:40px;width:31px;height:31px;}
+
+/* ФОНЫ */
+	#content{background: url("fon1000content.jpg") repeat-x #ffffff}
+	.leftSide{background: url("wrap_left.jpg")  right top no-repeat #ffffff}
+	.rightSide{background: url("wrap_right.jpg") left top no-repeat #ffffff}
+	.mainCol{background: url("fon1000.jpg") left top repeat-y #ffffff}
+
+/* ЭЛЕМЕНТЫ И ОБЪЕКТЫ НА СТРАНИЦЕ */
+	/* лого ок в подвале */
+	.footerLogo{float:right;margin-right:20px;}
+	/* фотоальбом */
+	.album_img_container ul.lightbox {text-align:center;padding-left:25px;}
+	.album_img_container h2{margin-left: 65px;margin-top: 31px;}
+	
+	
+/* СТИЛИ для КОРЗИНЫ и ИНТЕРНЕТ МАГАЗИНА */
+	#basketBox {width:400px; margin-top: 0px; margin-bottom: 20px; float: right;}
+	#backetItems {border: 1px solid; padding: 17px; background-color: rgba(0,0,0,0.1);}
+	.removeFromBasket {cursor: pointer; text-decoration: underline; color: #7f7f7f;}
+
+/* БАННЕРЫ */
+	/* ссылки */
+	.banners-block ul.banners-list li a {padding:2px;background-color:#;border-radius:0px;border:0px solid #656565;color:#363330;text-decoration:none;}
+	.banners-block ul.banners-list li a:hover{color:#e98f06;background:#;}
+	/* текст */
+	.banners-block ul.banners-list p{font-size:15px;color:#363330;}
+
+/* ПРОЧИЕ СТИЛИ */
+	.rounded{border-radius:20px;}
+	.hidden{display:none;}
+	.clear_both{clear:both}
+
+/* Версия для слабовидящих */
+/* Версия х1 */
+.font-size-var-1 .pagetitleText{font-size:28px !important;}
+.font-size-var-1 #pageWraper, .font-size-var-1 #pageWraper p {font-size: 18px !important;}
+.font-size-var-1 #content p, .font-size-var-1 #content span{font-size: 18px !important;}
+.font-size-var-1 .shop_cats h4 span{font-size: 13px !important;}
+.font-size-var-1 .top_menu li a, .font-size-var-1 .shop_cats ul li a{font-size:17px;}
+.font-size-var-1 .banners-block, .font-size-var-1 .banners-block p, .font-size-var-1 .banners-block a{font-size:17px !important;}
+.font-size-var-1 .documents_link a{font-size:17px;}
+/* Версия х2 */
+.font-size-var-2 .pagetitleText{font-size:28px !important;}
+.font-size-var-2 #pageWraper, .font-size-var-2 #pageWraper p{font-size: 24px !important;}
+.font-size-var-2 #content p, .font-size-var-2 #content span{font-size: 24px !important;}
+.font-size-var-2 .shop_cats h4 span{font-size: 18px !important;}
+.font-size-var-2 .top_menu li a, .font-size-var-2 .shop_cats ul li a{font-size:20px;}
+.font-size-var-2 .banners-block, .font-size-var-2 .banners-block p, .font-size-var-2 .banners-block a{font-size:20px !important;}
+.font-size-var-2 .documents_link a{font-size:20px;}
+/* Версия х3 */
+.font-size-var-3 .pagetitleText{font-size:36px !important;}
+.font-size-var-3 #pageWraper, .font-size-var-3 #pageWraper p{font-size: 32px !important;}
+.font-size-var-3 #content p, .font-size-var-3 #content span{font-size: 32px !important;}
+.font-size-var-3 .shop_cats h4 span{font-size: 22px !important;}
+.font-size-var-3 .top_menu li a, .font-size-var-3 .shop_cats ul li a{font-size:22px;}
+.font-size-var-3 .banners-block, .font-size-var-3 .banners-block p, .font-size-var-3 .banners-block a{font-size:22px !important;}
+.font-size-var-3 .documents_link a{font-size:22px;}
+
+</style>
+
+
+<style type="text/css">.highslide img {cursor: url(""), pointer !important;}</style>
 </head>
 
+
 <body>
-    <div class="payment_timeout" style="display:none !important">0</div>
-    <div class="s__main">
 
-        <div class="eeee"></div>
-        <div id="tira_ws_content_1">
-            <div class="header">
-                <div class="header-top">
-                    <header class="header">
-                        <div class="header__inner">
-                            <h1 class="header__logo"> <a href="#order_form"> Noticias urgentes </a></h1>
-                            <div class="header__air"> <a class="header__air-logo" href="#order_form"> </a> <a class="header__air-title" href="#order_form"> Transmisión en vivo </a></div> <a href="#order_form" class="search"></a>
-                            <div class="nav">
-                                <ul class="nav__inner">
-                                    <li> <a data-hover="Noticias" href="#order_form"> Noticias </a></li>
-                                    <li> <a data-hover="Vídeo" href="#order_form"> Vídeo </a></li>
-                                    <li> <a data-hover="Fotos" href="#order_form"> Fotos </a></li>
-                                    <li> <a data-hover=" Transmisiones" href="#order_form"> Transmisiones </a></li>
-                                    <li> <a data-hover="Servicios" href="#order_form"> Servicios </a></li>
-                                </ul>
-                            </div> <a class="header__menu-link" href="#order_form"></a>
+
+            
+    
+<div class="wideHeader" align="center">
+	<div id="headerMain">
+	<table align="center" style="height: 180px; width: 980px">
+
+</table>
+<br>
+<style type="text/css">
+#pod3 {
+    color: #fff; /* Цвет обычной ссылки */ 
+    text-decoration: none; /* Убираем подчеркивание у ссылок */
+   }
+   #pod3:visited {
+      color: #f5f2f2;/* Цвет посещённой ссылки */
+   } 
+   #pod3:hover {
+    color: #fff; /* Цвет ссылки при наведении на нее курсора мыши */  
+    text-decoration: underline; /* Добавляем подчеркивание */
+}
+#pod1 {
+    color: #000000; /* Цвет обычной ссылки */ 
+    text-decoration: none; /* Убираем подчеркивание у ссылок */
+   }
+   #pod1:visited {
+      color: #000000;/* Цвет посещённой ссылки */
+   } 
+   #pod1:hover {
+    color: #ff8400; /* Цвет ссылки при наведении на нее курсора мыши */  
+    text-decoration: underline; /* Добавляем подчеркивание */
+   }</style>
+	</div>
+</div>
+
+<style>
+            #topSliderNextweb{background:url("905_bg.png") center top no-repeat;background-color: ffffff;}
+            #jFlowSlider{height:414px !important;}
+            #jFlowSlider #mySlides{height: auto !important;}
+            #jFlowSlider #mySlides .jFlowSlideContainer .slideContent{height: auto !important;}
+            #jFlowSlider .jFlowSlideContainer .slide .slideContent h3{line-height: normal;font-size:60px;color:000000;}
+            #jFlowSlider .jFlowSlideContainer .slide .slideContent h3 a{display:inline-block;font-size:60px;color:000000;border-bottom:1px solid;border-color:000000;padding-bottom:0px;}
+            #jFlowSlider .jFlowSlideContainer .slide .slideContent p{font-size:18px;color:000000;}
+            #jFlowSlider .jFlowSlideContainer .slide .slideContent{margin-bottom: 0px;text-align: center;background: rgba(0,186,0,0);}
+            .jFlowPrev, .jFlowNext{top:147px !important;}
+            </style>
+                <div id="topSliderNextweb">
+                <div class="sliderContainer">
+                <div class="slidertop_description slidertop_description__over" style="word-wrap:break-word;"></div>
+                    <div id="jFlowSlider" style="position: relative; width: 1000px; height: 350px; overflow: hidden;"><div id="mySlides" style="position: relative; width: 3000px; height: 414px; overflow: hidden; margin-left: 0px;">
+            
+                    <div class="jFlowSlideContainer" style="position: relative; width: 1000px; height: 414px; float: left; overflow: hidden;"><div class="slide" id="slide1">
+                        <img src="905_1595.png" alt="">
+                        <div class="slideContent"><h3></h3><p></p>
                         </div>
-                    </header>
-                    <div class="content">
-                        <div class="content-left"> <h1>
-                                <center> Profesor Joseph Verga: "¡Se pasan años tratando las articulaciones mientras se pueden reparar <span class="nowrap">en tan solo 30 días </span>!"</center>
-                            </h1> <h2>
-                                <font color="red"> Lea el artículo sobre el tratamiento de enfermedades del sistema musculo-esquelético y descubra cómo comprar un remedio para el tratamiento de las articulaciones con descuento. </font>
-                            </h2> <div class="content-left-doctor">
-                                <div class="content-left-doctor-foto"> <img src="8973/images/doc-dic-1.jpg"></div>
-                                <div class="content-left-doctor-text"> <strong class="r_3">Joseph Verga</strong>doctorado en medicina, profesor e investigador principal de un proyecto especial destinado a buscar un medio para reparar las articulaciones, falleció el <span class="date-56" data-format="dd month">22 de abril </span><span class="date-0" data-format=" yyyy">de 2019</span> a la edad de 89 años. Desde el año <span class="date-10950" data-format="yyyy"></span> y a lo largo de 30 años, Joseph Verga ha trabajado como cirujano en el Instituto de enfermedades del aparato locomotor en Hungría y ha estado involucrado en la medicina espacial. Muchos de sus proyectos de investigación eran dedicados a tratamientos alternativos. Durante años, el profesor Joseph Verga ha tratado de crear un remedio NATURAL que pueda penetrar en las articulaciones y los tejidos del cartílago y restaurarlos desde el interior.</div>
-                            </div> <p> En <span class="date-0" data-format=" yyyy">2019</span>, un equipo de investigación dirigido por el profesor Joseph Verga realizó una serie de pruebas de un tratamiento para las articulaciones en el laboratorio. Los resultados superaron todas sus expectativas. ¡Después de comparar el nuevo producto con medicamentos conocidos, los científicos no dudan de que ha comenzado una nueva era en la Reumatología! Los investigadores solicitaron la certificación del remedio y ya querían lanzarlo a la venta cuando ocurrió una tragedia irreparable: la muerte del profesor Joseph Verga. ¿Es posible que el remedio salga a la venta? Nuestro corresponsal hizo esta pregunta al mejor reumatólogo Húngaro, Joseph Verga, que también participó activamente en el estudio.</p> <h2>
-                                <font color="red"> Comentario del Dr. Joseph Verga: "Nos sorprendió la notificación de la muerte del profesor Joseph Verga y decidimos terminar aquello a lo que dedicó toda su vida". </font>
-                            </h2> <p><b> Corresponsal: Hola, doctor. ¿En qué etapa se encuentra ahora el desarrollo de este remedio? </b></p> <p><b> Joseph Verga:</b> Hola, David. Me complace informar que, después de todas las pruebas, hemos obtenido el permiso para lanzar el remedio al mercado farmacéutico. Los ingredientes de nuestro gel Parafrix tienen un efecto tan positivo en las articulaciones que los movimientos ya no le causarán sensaciones dolorosas o molestias. ¡Comenzará a moverse libremente!</p> <p> Los estudios clínicos de Parafrix han demostrado su alta efectividad para el tratamiento de enfermedades del sistema musculo-esquelético.</p> <p><b> Corresponsal: ¿Podría contarnos cual es la diferencia entre Parafrix y los remedios comunes de las farmacias? </b></p> Algunos medicamentos pueden aliviar el dolor, pero solo tienen un efecto temporal y la mayoría de las veces solo eliminan los síntomas, y las causas de la enfermedad permanecen intactas. Además, el uso prolongado de tales medicamentos destruye los riñones, el hígado y el estómago. En términos generales, es un círculo cerrado en el que el paciente se ve obligado a utilizar constantemente medicamentos para reducir el dolor, que tienen un efecto negativo en su cuerpo, mientras que la causa del dolor no se trata. Y es que las enfermedades del aparato musculo-esquelético son extremadamente peligrosas y pueden conducir a consecuencias devastadoras, como tumores malignos.<p> </p><p> Permítame mostrarle también qué consecuencias pueden tener las enfermedades de las articulaciones. Las patologías más comunes se desarrollan de la siguiente manera:</p> <div>
-                                    <table border="1" width="100%">
-                                        <tbody>
-                                            <tr>
-                                                <th> Enfermedad</th>
-                                                <th> Complicaciones en la etapa inicial</th>
-                                                <th> Complicaciones en la etapa tardía</th>
-                                            </tr>
-                                            <tr>
-                                                <td> Artritis</td>
-                                                <td> Necrosis del cartílago, fractura de la articulación, sinovitis</td>
-                                                <td> Fractura total de la articulación, sepsis, tumores malignos de las articulaciones</td>
-                                            </tr>
-                                            <tr>
-                                                <td> Osteoartritis</td>
-                                                <td> Inflamación del cartílago, cambios en la estructura de la articulación y su destrucción, riesgo de infección de sangre</td>
-                                                <td> Discapacidad (insuficiencia articular), destrucción del cartílago, tumores malignos de las articulaciones</td>
-                                            </tr>
-                                            <tr>
-                                                <td> Osteocondrosis</td>
-                                                <td> Protuberancia de la columna vertebral, desplazamiento de los discos intervertebrales, nervios pellizcados</td>
-                                                <td> Hernia discal, enfermedades del sistema nervioso central, riesgo de insuficiencia de órganos y tumores malignos de la médula espinal</td>
-                                            </tr>
-                                            <tr>
-                                                <td> Coxartrosis</td>
-                                                <td> Aumento del hueso, cambios degenerativos del cartílago y la articulación, cambios degenerativos de la cápsula articular</td>
-                                                <td> Limitación de la actividad motora (discapacidad de primer o segundo grado), cáncer</td>
-                                            </tr>
-                                            <tr>
-                                                <td> Osteoporosis</td>
-                                                <td> Necrosis del tejido conectivo, necrosis del tejido óseo (que conduce a la fragilidad excesiva del hueso)</td>
-                                                <td> Deformación ósea y esquelética, insuficiencia de las extremidades, riesgo de cáncer debido a la necrosis ósea</td>
-                                            </tr>
-                                            <tr>
-                                                <td> Bursitis</td>
-                                                <td> Inflamación de la bolsa periarticular sinovial, acumulación de pus</td>
-                                                <td> Envenenamiento de la sangre, insuficiencia articular, descomposición de los tejidos musculares, tumores malignos</td>
-                                            </tr>
-                                            <tr>
-                                                <td> Podagra</td>
-                                                <td> Inflamación de la articulación del pie, deposición de sales de calcio, concentración de cristales de ácido úrico en los tejidos óseos</td>
-                                                <td> Deformación del valgus, aumento del tamaño de las articulaciones, necrosis ósea del pie, tumores benignos</td>
-                                            </tr>
-                                        </tbody>
-                                    </table>
-                                </div> <p> Como puede ver, las enfermedades de las articulaciones a menudo conducen a complicaciones graves que terminan con discapacidad o incluso la muerte. En los últimos 100 años, la carga en el esqueleto humano ha aumentado constantemente. Como resultado, casi todas las personas mayores de 25 años experimentan malestar como mínimo en 1-2 articulaciones. A la edad de 35-40 años, la enfermedad progresa y tiene graves complicaciones. <br> <br> Como ejemplo, puede ver estas fotos tomadas en hospitales:</p> <p>1. <b>Articulación de la rodilla del paciente con artrosis</b> (el paciente utilizó tratamientos "clásicos"). Las inyecciones aliviaban el dolor por poco tiempo, pero no ralentizaban el desarrollo de la enfermedad. Como consecuencia, le tuvieron que amputar la pierna. Ahora está discapacitado.</p> <div class="center">
-                                    <p style="text-align:center;">
-                                    <div class="h_tag">
-                                        <div class="click_ssty"> Mostrar</div>
-                                        <div class="ctr_ima_s">
-                                            <p class="wrap ll_ru" style="text-align: center"> <img class="content-product-img" src="8973/images/p1.jpg"></p>
-                                        </div>
-                                    </div>
-                                </p></div> <p>2. <b>Consecuencias de la Osteocondrosis</b> (en lugar de otros tratamientos se usaron analgésicos). Resultado: dos hernias se convirtieron en tumores malignos. La paciente fue operada, pero desafortunadamente la cirugía no le ayudó y la mujer falleció.</p> <div class="center">
-                                    <p style="text-align:center;">
-                                    <div class="h_tag">
-                                        <div class="click_ssty"> Mostrar</div>
-                                        <div class="ctr_ima_s">
-                                            <p class="wrap ll_ru" style="text-align: center"> <img class="content-product-img" src="8973/images/p2.jpg"></p>
-                                        </div>
-                                    </div>
-                                </p></div> <p>3.<b> Consecuencias de la artritis de manos</b>. Como saben, es imposible ayudar al paciente cuando el proceso inflamatorio ya ha cobrado impulso y ha provocado sepsis. Al paciente le amputaron la mano y parte del antebrazo, pero ni siquiera eso pudo salvarle: la infección se extendió por todo el cuerpo y el hombre murió seis meses después de un tratamiento intenso.</p> <div class="center">
-                                    <p style="text-align:center;">
-                                    <div class="h_tag">
-                                        <div class="click_ssty"> Mostrar</div>
-                                        <div class="ctr_ima_s">
-                                            <p class="wrap ll_ru" style="text-align: center"> <img class="content-product-img" src="8973/images/p3.jpg"></p>
-                                        </div>
-                                    </div>
-                                </p></div> <p> Ahora hablemos de algo más positivo. Al igual que muchos otros científicos médicos, el profesor Joseph Verga dedicó décadas al estudio de la medicina alternativa. Estaba especialmente interesado en los secretos de la longevidad y la salud. Por lo tanto, unimos nuestras fuerzas para aprovechar al máximo el conocimiento y los resultados de la investigación del profesor en la creación de la fórmula<strong> Parafrix.</strong> Hace tiempo que los ingredientes naturales de Parafrix demostraron que desempeñan un papel clave en el tratamiento de enfermedades del sistema musculoesquelético. Durante su uso, no se requiere terapia complementaria, ya que estos componentes garantizan mejorar el flujo sanguíneo, que detiene la necrosis y la inflamación y desencadena el proceso de regeneración. El problema es que todo eso parece sencillo a simple vista, pero en la práctica, ninguno de los medicamentos conocidos combina estos ingredientes con éxito. Afortunadamente, ahora hemos creado Parafrix. Además, después de terminar los estudios clínicos, decidimos realizar una oferta especial, durante la cual el medicamento se puede adquirir con un descuento.</p> <p> Antes de que se seleccionara el medicamento para su distribución a un precio especial, realizamos estudios clínicos a gran escala que involucraron a 10120 pacientes de diferentes categorías de edad. El 93,8% de ellos se curaron por completo de la enfermedad, mientras que el 5,6% todavía tenía algunos problemas, pero en general su condición mejoró significativamente. Les explicaré: los sujetos con una forma severa de artritis, que apenas podían caminar, después del tratamiento, solo experimentaban dolores menores de vez en cuando. Solo el 0. 6% de los sujetos experimentaron mejoras que no le permiten decir que se recuperaron por completo.</p> <p><strong> Corresponsal: ¿Le he oído bien? ¿Está ofreciendo este increíble remedio con un descuento? </strong></p> <p><b> Joseph Verga:</b> Sí, así es. En memoria del profesor Joseph Verga, hemos creado un fondo especial que lleva su nombre y hemos encontrado patrocinadores que nos han permitido ejecutar un programa de tratamiento de articulaciones. Los patrocinadores proporcionaron 300000 euros A la Academia de Reumatología. Por este motivo tenemos la oportunidad de vender Parafrix con un descuento, mientras que el precio total del embalaje es de <span>SSSS euros.</span> Y sí, realmente funciona. He dirigido personalmente los estudios clínicos y puedo confirmar que es un remedio muy eficaz.</p> <div class="img_box">
-                                    <div class="text_img">
-                                        <p> Disco articular normal</p>
-                                        <p> Cambios degenerativos del disco articular</p>
-                                        <p> Protrusión de disco</p>
-                                        <p> Deslizamiento del disco</p>
-                                        <p> Desgaste del disco</p>
-                                        <p> Degeneración del disco con osteofitos</p>
-                                    </div> <a href="#order_form"><img src="8973/images/infog.jpg"></a>
-                                </div> <p> Permítanos mostrarle los resultados de los estudios clínicos que hemos realizado para el gel <b>Parafrix</b>. Sorprendieron a muchos médicos. Este remedio será una verdadera salvación para los pacientes que sufren de dolor en las articulaciones.</p> <div class="myImages r_4"> <img alt="" src="8973/images/1circle.png">
-                                    <p class="r_5"> El dolor desapareció en unos 8-10 minutos en el 100% de los voluntarios</p> <img alt="" src="8973/images/2circle.png">
-                                    <p class="r_5"> Después del curso con Parafrix, el tejido cartilaginoso se recuperó en el 98% de los casos</p> <img alt="" src="8973/images/3circle.png">
-                                    <p class="r_5"> El 93% de los voluntarios se han deshecho de la artritis y la artrosis después del tratamiento</p>
-                                </div> <p> <b class="r_6"> Y estas son las imágenes de las articulaciones "antes" y "después" del uso de Parafrix. </b></p> <p><b></b></p> <center><b> Mujer. 54 años. La articulación se recuperó por completo Duración del tratamiento: 6 semanas</b></center><p></p><p><div class="bone">
-                                    <div class="header__air"> <a class="header__air-logo" href="#order_form"> </a> <a class="header__air-title" href="#order_form"> Transmisión en vivo </a></div> <a href="#order_form"><img alt="" src="8973/images/skandal12.jpg"></a>
-                                </div><br></p><p><b></b></p><center><b> Tratamiento de la articulación de la cadera de un hombre de 44 años. Los dolores agudos que lo atormentaban durante 2 años cesaron por completo. </b></center> <p> <div class="bone">
-                                    <div class="header__air"> <a class="header__air-logo" href="#order_form"> </a> <a class="header__air-title" href="#order_form"> Transmisión en vivo </a></div>
-                                    <div class="bone_text">
-                                        <p class="left_text"> Articulación enferma</p>
-                                        <p class="right_text"> Articulación sana</p>
-                                    </div> <a href="#order_form"><img alt="" src="8973/images/skandal13.jpg"></a>
-                                </div> <br> </p><p><b></b></p> <center><b> Recuperación de la articulación del codo. Mujer, 31 años. Duración del tratamiento con Parafrix: 2 meses. La articulación se recuperó por completo </b></center> <p> </p><p> <div class="bone">
-                                    <div class="header__air"> <a class="header__air-logo" href="#order_form"> </a> <a class="header__air-title" href="#order_form"> Transmisión en vivo </a></div> <a href="#order_form"><img alt="" src="8973/images/skandal14.jpg"></a>
-                                </div> </p><p><strong> Corresponsal: ¡Realmente impresionante! ¿Podría explicar que significa esto para las personas comunes que sufren de enfermedades de las articulaciones? </strong></p> <p><b> Joseph Verga:</b> Esto significa que la medicina moderna ha avanzado mucho y ahora las articulaciones se pueden curar en casa en tan solo unas semanas. Parafrix no es un analgésico. "Reinicia" el organismo a nivel celular, eliminando la causa de la enfermedad y devolviendo las articulaciones y la columna vertebral a su estado natural. El paciente no solo alivia los síntomas, sino que también elimina por completo la causa de la enfermedad al mejorar el flujo sanguíneo al cartílago, que anteriormente había sido debilitado por las células lentas y viejas.</p> <p> Parafrix inicia el proceso de regeneración del organismo desde los primeros días de uso. También reduce el dolor, por lo tanto sentirá su efecto de inmediato. En tan solo 30 días, reparará las articulaciones por completo.</p> <p><strong> Corresponsal: ¿Parafrix ayuda solo con ciertas enfermedades del sistema musculoesquelético? </strong></p> <p><b> Joseph Verga:</b> No. Como ya dije, el remedio funciona a nivel celular, estimulando los procesos de regeneración. Ayuda en el tratamiento de todas las enfermedades de las articulaciones y la espalda, incluida la artrosis, la artritis, la osteoporosis, el reumatismo, la gota, la ciática, la radiculitis, la Osteocondrosis, el desplazamiento de los discos vertebrales y muchas otras. Trata cualquier patología de las articulaciones en cualquier etapa.</p> <p><strong> Corresponsal: ¿El gel realmente elimina todas estas enfermedades, y no solo alivia el dolor? </strong></p> <p><b> Joseph Verga:</b> Parafrix alivia el dolor (en las etapas iniciales del tratamiento) y cura completamente la enfermedad. Naturalmente, hay otros tratamientos para estas enfermedades, pero por lo general terminan en cirugía, que es extremadamente peligrosa. Sin mencionar que estas operaciones son muy costosas y pocos pueden permitírselas.</p> <center><img alt="" src="8973/images/sert.jpg" style="max-width: 35%;"> <br> <span class="underphoto"> Certificado que confirma la eficacia de Parafrix </span></center> <p><strong> Corresponsal: ¿Cómo adquirir Parafrix con un descuento? ¿Quién puede hacerlo? </strong></p> <p><b> Joseph Verga:</b> Cualquiera puede encargarlo. Solo quiero señalar que debido a los pequeños volúmenes de producción, la cantidad de unidades en promoción a un precio especial es limitada. A pesar de esto, cualquier persona puede completar el formulario de pedido y comprar Parafrix con un descuento. Basta con indicar su nombre y número de Teléfono. Poco después, el operador de nuestro centro de asesoramiento se pondrá en contacto con usted.</p> <p><strong> Corresponsal: ¿Cuándo termina esta promoción? </strong></p> <p><b> Joseph Verga:</b> La promoción dura hasta <strong><span class="date-0"></span></strong> (incluido). Todo lo que se debe hacer es <a href="#order_form">dejar una solicitud en la página web</a>. Si aún no lo ha hecho, le aconsejo que se apresure, ya que muy pronto será imposible comprar el producto a un precio especial con un descuento. Personalmente, le garantizo que todos los pedidos realizados durante la promoción serán procesados y todos recibirán su pedido.</p> <p><strong> Corresponsal: ¡Muchas gracias por la entrevista! ¿Le gustaría decir algo a nuestros lectores antes de que terminemos la reunión? </strong></p> <p><b> Joseph Verga:</b> Sí, claro. Me gustaría recordar a los lectores que las enfermedades de la columna vertebral y las articulaciones son cada vez más comunes entre los jóvenes y que incluso los dolores leves e intermitentes son una señal para que presten atención a su salud. No espere que los médicos lo persuadan para que se trate, su salud está en sus manos.</p> <p> Y recuerde: las enfermedades que se manifiestan en dolor de espalda y articulaciones no solo causan incomodidad. Reducen la esperanza de vida en 15-20 años.</p> <hr> <img alt="" class="produ" src="8973/images/product.png"> 
-								<center class="forms">
-								  <div class="order_info">
-									<h2 id="counter_product"> A fecha de <b><u><span class="date-0">310.06.2021</span></u></b> La
-									  cantidad disponible a un precio especial es de:
-									  <center>
-										<h3 id="scroll_element" class="left_count"><b class="prod_left_val">23 </b> uds. </h3>
-									  </center>
-									  Complete el siguiente formulario para obtener Parafrix a un precio con descuento: por
-									  <span style="display: inline-block;"><span class="x_price_current">140</span> <span class="x_currency">PE</span></span>
-									</h2>
-								  </div>
-								  <form action="api.php" id="order_form" class="x_order_form al-form" method="post">
-									<div id="order_form_place" style="display:block;">
-									  <center>
-										<picture><source type="image/webp" srcset="8973/images/med.webp"><img src="8973/images/med.png" style="max-width:100px;" alt="img"></picture>
-										<h2> Formulario de pedido oficial </h2>
-										<span style="color:blue;font-size:14px;"><i> #29982 desde <span class="date-0">31.06.2021</span></i></span>
-									  </center>
-									  <div>
-										<span style="font-size:16px;"> para obtener Parafrix con el programa preferencial por
-										  <span style="display: inline-block;"><span class="x_price_current">140</span> <span class="x_currency">PE</span></span> </span>
-									  </div>
-									  <div style="margin:25px 10px 15px 10px;border:2px solid #0299ff;padding:10px;    line-height: 18px!important; padding-top: 0;">
-										<span><b> Para pedir Parafrix a un precio especial, introduzca su nombre y número de
-											teléfono de contacto en el campo a continuación y haga clic en el botón PEDIR
-										  </b></span>
-									  </div>
-									  <div class="order_form_pole">
-										<label> Nombre: </label>
-										<input name="name" placeholder="Nombre completo" required type="text" value="" autocomplete="name">
-									  </div>
-									  <div class="order_form_pole">
-										<label> Número de teléfono: </label>
-										<input name="phone" placeholder="Número de teléfono" required type="tel" value="" autocomplete="tel">
-									  </div>
-									  <div style="margin-bottom:20px;">
-										<button class="js_pay_online_secondpage button__text" style="margin: 0 auto; display: block; margin-top: 25px;" type="submit"> PEDIR
-										</button>
-									  </div>
-									  <span> *Sus datos se envían directamente al fabricante. Nadie, excepto ellos, tiene acceso
-										a sus datos. </span>
-									</div>
-								  </form>
-								</center>
-								<center> <h2 class="sale-title"> Recuerde que el descuento solo es válido hasta el <span><span class="date-0"></span></span> (incluido)</h2> </center> <div class="opros-product-block">
-                                    <div class="like-block">
-                                        <p><strong> ¿Te gustó el artículo? ¡Compártelo con tus amigos! </strong></p> <a href="#order_form"><img src="8973/images/social2.jpg"></a>
-                                    </div>
-                                </div> <div class="vk-container">
-                                    <div class="vk-header">
-                                        <div class="vk-logo"></div>
-                                        <div class="vk-header-text"> <span class="comment-count"> 30 comentarios de hoy </span></div>
-                                    </div>
-                                    <div class="vk-comment-load">
-                                        <div class="vk-avatar"><img height="48px" src="8973/images/w16.jpg" width="48px"></div>
-                                        <div class="vk-comment-name"> Cristina Sánchez Molina</div>
-                                        <div class="vk-comment-text"> Estoy muy agradecida por la información, justamente estaba buscando un remedio como este. ¡Estoy impaciente por recibir mi paquete, gracias!</div>
-                                        <div class="vk-comment-date"> Hace 1 hora</div>
-                                    </div>
-                                    <div class="vk-comment-load">
-                                        <div class="vk-avatar"><img height="48px" src="8973/images/default_ava.jpg" width="48px"></div>
-                                        <div class="vk-comment-name"> Helena Martínez Calo</div>
-                                        <div class="vk-comment-text"> Me dolía mucho la cadera, pero ya se me ha pasado. ¡Para ello he necesitado sólo 30 días! Gracias!</div>
-                                        <div class="vk-comment-date"> Hace 1 hora</div>
-                                    </div>
-                                    <div class="vk-comment-load">
-                                        <div class="vk-avatar"><img height="48px" src="8973/images/w36.jpg" width="48px"></div>
-                                        <div class="vk-comment-name">Anna Rodríguez Arnau</div>
-                                        <div class="vk-comment-text"> ¡estoy totalmente de acuerdo! ¡un remedio muy efectivo para el tratamiento de las articulaciones! me deshice de la artrosis</div>
-                                        <div class="vk-comment-date"> Hace 1 hora</div>
-                                    </div>
-                                    <div class="vk-comment-load">
-                                        <div class="vk-avatar"><img height="48px" src="8973/images/1037.jpg" width="48px"></div>
-                                        <div class="vk-comment-name"> Rafael Lorente Campos</div>
-                                        <div class="vk-comment-text"> ¡Gracias, doctor! Probé este gel y la condición de mis articulaciones mejoró significativamente. Veamos qué pasa en un mes, aun es muy pronto para decir algo. Le informaré de mi progreso. ¡Estoy seguro de que todo va a ir bien! <br></div>
-                                        <div class="vk-comment-date"> Hace 1 hora</div>
-                                    </div>
-                                    <div class="vk-comment-load">
-                                        <div class="vk-avatar"><img height="48px" src="8973/images/2233.jpg" width="48px"></div>
-                                        <div class="vk-comment-name"> Dr. Joseph Verga</div>
-                                        <div class="vk-comment-text"> Rafael, no se preocupe y siga usando Parafrix. Siga las instrucciones de uso. <br> <br> Saludos, Joseph verga</div>
-                                        <div class="vk-comment-date"> Hace 1 hora</div>
-                                    </div>
-                                    <div class="vk-comment-load">
-                                        <div class="vk-avatar"><img height="48px" src="8973/images/1030.jpg" width="48px"></div>
-                                        <div class="vk-comment-name"> Roberto Ibáñez Solsona</div>
-                                        <div class="vk-comment-text"> ¡Auxilio! Ya estoy harto de la artritis y los dolores constantes. ¡No puedo soportarlo más! ¡No se que hacer, he probado varias cremas muy anunciadas y no me han dado ningún efecto!</div>
-                                        <div class="vk-comment-date"> Hace 1 hora</div>
-                                    </div>
-                                    <div class="vk-comment-load">
-                                        <div class="vk-avatar"><img height="48px" src="8973/images/default_ava.jpg" width="48px"></div>
-                                        <div class="vk-comment-name"> Luis Salazar Vera</div>
-                                        <div class="vk-comment-text"> Robert, prueba Parafrix, no te arrepentirás, sobretodo ahora que está con un descuento. Yo tuve un problema similar: la radiculitis me atormentaba, incluso me resultaba difícil moverme, en un momento me di por vencido. Gracias a mi madre por descubrir este Parafrix e insistir en que lo pruebe. Es una gran admiradora del profesor Joseph Verga y sus estudios sobre la medicina alternativa, a menudo se trata con sus técnicas, por eso encargó arthrolón cuando salió a la venta. Al principio, era muy escéptico, pero el gel me ayudó a deshacerme de los dolores de espalda y ahora puedo moverme libremente. Créeme: una vez que hayas completado el curso, el dolor cesará para siempre, y estarás muy agradecido.</div>
-                                        <div class="vk-comment-date"> Hace 1 hora</div>
-                                    </div>
-                                    <div class="vk-comment-load">
-                                        <div class="vk-avatar"><img height="48px" src="8973/images/1033.jpg" width="48px"></div>
-                                        <div class="vk-comment-name"> Maria Pedrosa Gascón</div>
-                                        <div class="vk-comment-text"> ¿Cómo ordenar Parafrix?</div>
-                                        <div class="vk-comment-date"> Hace 1 hora</div>
-                                    </div>
-                                    <div class="vk-comment-load">
-                                        <div class="vk-avatar"><img height="48px" src="8973/images/1034.jpg" width="48px"></div>
-                                        <div class="vk-comment-name"> Esteban Carrillo Puentes</div>
-                                        <div class="vk-comment-text"> María, aquí está el enlace a la<a href="#order_form"> página web oficial de Parafrix</a>, pero es mejor darse prisa mientras este disponible con descuento. Me ayudó mucho. Yo también lo compré con descuento.</div>
-                                        <div class="vk-comment-date"> Hace 1 hora</div>
-                                    </div>
-                                    <div class="vk-comment-load">
-                                        <div class="vk-avatar"><img height="48px" src="8973/images/1033.jpg" width="48px"></div>
-                                        <div class="vk-comment-name">Maria Pedrosa Gascón</div>
-                                        <div class="vk-comment-text"> Gracias, Esteban. Lo encargue. ¿Tarda mucho en llegar?</div>
-                                        <div class="vk-comment-date"> Hace 1 hora</div>
-                                    </div>
-                                    <div class="vk-comment-load">
-                                        <div class="vk-avatar"><img height="48px" src="8973/images/1034.jpg" width="48px"></div>
-                                        <div class="vk-comment-name"> Esteban Carrillo Puentes</div>
-                                        <div class="vk-comment-text"> No, debe llegar en unos tres días.</div>
-                                        <div class="vk-comment-date"> Hace 1 hora</div>
-                                    </div>
-                                    <div class="vk-comment-load">
-                                        <div class="vk-avatar"><img height="48px" src="8973/images/w37.jpg" width="48px"></div>
-                                        <div class="vk-comment-name"> Gloria Torres Colinas</div>
-                                        <div class="vk-comment-text"> este producto es maravilloso, se lo recomiendo a todos. Me dolía mucho el cuello, el dolor era tan fuerte que me dolían hasta las orejas, empecé a pensar que era osteocondrosis. Usé Arthrolón durante 30 días, el dolor se fue como si nada, ahora me siento fenomenal</div>
-                                        <div class="vk-comment-date"> Hace 1 hora</div>
-                                    </div>
-                                    <div class="vk-comment-load">
-                                        <div class="vk-avatar"><img height="48px" src="8973/images/m2.jpg" width="48px"></div>
-                                        <div class="vk-comment-name"> Pedro Contreras Lago</div>
-                                        <div class="vk-comment-text"> Gloria, ¿De verdad que ayuda tan bien? Entonces realmente debo comrarlo.</div>
-                                        <div class="vk-comment-date"> Hace 1 hora</div>
-                                    </div>
-                                    <div class="vk-comment-load">
-                                        <div class="vk-avatar"><img height="48px" src="8973/images/default_ava.jpg" width="48px"></div>
-                                        <div class="vk-comment-name"> Mateo Gutierrez Galán</div>
-                                        <div class="vk-comment-text"> Dejad que os cuente mi historia. Tuve un problema similar: una enfermedad degenerativa de la columna cervical, a veces los dolores eran despiadados. Comencé a buscar métodos para eliminar la enfermedad de alguna manera, después encontré este artículo y decidí encargar Parafrix. Igualmente no tenía nada que perder. Después de 2 días recibí el paquete y empecé a ponerme la crema en el cuello. Estoy muy satisfecho con la compra. El dolor se me pasó en tan sólo cuatro semanas. Prueben, no se arrepentirán.</div>
-                                        <div class="vk-comment-date"> Hace 1 hora</div>
-                                    </div>
-                                    <div class="vk-comment-load">
-                                        <div class="vk-avatar"><img height="48px" src="8973/images/m4.jpg" width="48px"></div>
-                                        <div class="vk-comment-name"> David Pablo Villa</div>
-                                        <div class="vk-comment-text"> Veo que no soy el único que sufre de dolor en las articulaciones. Gracias a Dios que hace un mes descubrí Parafrix. Me salvó de la artrosis de rodilla. El efecto es mucho más rápido que con otros remedios.</div>
-                                        <div class="vk-comment-date"> Hace 1 hora</div>
-                                    </div>
-                                    <div class="vk-comment-load">
-                                        <div class="vk-avatar"><img height="48px" src="8973/images/1032.jpg" width="48px"></div>
-                                        <div class="vk-comment-name"> Victor Gerona</div>
-                                        <div class="vk-comment-text"> ¿Este gel realmente funciona? ¿Alguien lo ha probado? Los médicos no me ayudan en absoluto</div>
-                                        <div class="vk-comment-date"> Hace 1 hora</div>
-                                    </div>
-                                    <div class="vk-comment-load">
-                                        <div class="vk-avatar"><img height="48px" src="8973/images/w39.jpg" width="48px"></div>
-                                        <div class="vk-comment-name"> Catalina Hernández García</div>
-                                        <div class="vk-comment-text"> Victor, claro que ayuda. El efecto de este gel es muy poderoso, y lo más importante, es que no daña la salud, por eso pídelo sin pensarlo dos veces! Me ayudó mucho a deshacerme de la radiculitis</div>
-                                        <div class="vk-comment-date"> Hace 1 hora</div>
-                                    </div>
-                                    <div class="vk-comment-load">
-                                        <div class="vk-avatar"><img height="48px" src="8973/images/default_ava.jpg" width="48px"></div>
-                                        <div class="vk-comment-name"> Margarita Romero</div>
-                                        <div class="vk-comment-text"> Gracias. Parafrix me ayudó rápidamente. Lo encargué en la página oficial mientras estaba en promoción. Creo que no hay que dejar el tratamiento para después, es mejor deshacerse de los problemas con las articulaciones enseguida! Porque uno puede aguantar los dolores durante años, y buen día despertarse y darse cuenta de que no puede levantarse de la cama.</div>
-                                        <div class="vk-comment-date"> Hace 1 hora</div>
-                                    </div>
-                                    <div class="vk-comment-load comment-id-1">
-                                        <div class="vk-avatar"><img height="48px" src="8973/images/222.jpg" width="48px"></div>
-                                        <div class="vk-comment-name"> Laura Martín Caballero</div>
-                                        <div class="vk-comment-text"> Muchas gracias al Dr. Joseph Verga y profesor Joseph Verga, que en paz descanse. Si no fuera por vosotros, nunca me creería que las enfermedades de las articulaciones pueden curarse. Mi esposo tenía problemas con los discos intervertebrales durante 15 años, así que sé de lo que estoy hablando. ¡Parafrix lo curó por completo! Nunca ha estado tan feliz.</div>
-                                        <div class="vk-comment-date"> Hace 1 hora</div>
-                                    </div>
-                                    <div class="vk-comment-load">
-                                        <div class="vk-avatar"><img height="48px" src="8973/images/2233.jpg" width="48px"></div>
-                                        <div class="vk-comment-name"> Dr. Joseph Verga</div>
-                                        <div class="vk-comment-text"> Gracias, Laura. Dígame, favor, ¿cuánto tiempo ha tardado el tratamiento de su esposo? <br> <br> Saludos, Joseph verga</div>
-                                        <div class="vk-comment-date"> Hace 1 hora</div>
-                                    </div>
-                                    <div class="vk-comment-load comment-id-1">
-                                        <div class="vk-avatar"><img height="48px" src="8973/images/222.jpg" width="48px"></div>
-                                        <div class="vk-comment-name"> Laura Martín Caballero</div>
-                                        <div class="vk-comment-text"> Unos 30 días, justo lo que dura 1 curso, y el dolor cesó por completo.</div>
-                                        <div class="vk-comment-date"> Hace 1 hora</div>
-                                    </div>
-                                    <div class="vk-comment-load">
-                                        <div class="vk-avatar"><img height="48px" src="8973/images/2233.jpg" width="48px"></div>
-                                        <div class="vk-comment-name"> Dr. Joseph Verga</div>
-                                        <div class="vk-comment-text"> Gracias por la información. <br> <br> Saludos, Joseph verga</div>
-                                        <div class="vk-comment-date"> Hace 1 hora</div>
-                                    </div>
-                                    <div class="vk-comment">
-                                        <div class="vk-avatar"><img height="48px" src="8973/images/90.jpg" width="48px"></div>
-                                        <div class="vk-comment-name">Alejandra Federico Fernández</div>
-                                        <div class="vk-comment-text"> Los resultados superaron todas mis expectativas. ¡La artritis de los dedos desapareció en un curso! Pedí un par de paquetes más para mi amiga. <br></div>
-                                        <div class="vk-comment-date"> Hace 57 minutos</div>
-                                    </div>
-                                    <div class="vk-comment">
-                                        <div class="vk-avatar"><img height="48px" src="8973/images/414.jpg" width="48px"></div>
-                                        <div class="vk-comment-name"> Mirella Isabel Galán</div>
-                                        <div class="vk-comment-text"> Lo pedí hace un par de minutos. <br> ¡La oferta sigue en pie, dense prisa! <br> Lo compré en la <a href="#order_form">página oficial</a>. Enseguida me llamaron y confirmaron el pedido. Estoy harta de esta vida con dolor, quiero apuntarme a clase de baile <br></div>
-                                        <div class="vk-comment-date"> Hace 55 minutos</div>
-                                    </div>
-                                    <div class="vk-comment">
-                                        <div class="vk-avatar"><img height="48px" src="8973/images/400.jpg" width="48px"></div>
-                                        <div class="vk-comment-name"> Estela Vidal Cabrera</div>
-                                        <div class="vk-comment-text"> me encontré por casualidad con este artículo y que veo?! Están hablando de mi gel favorito. Lo compré recientemente para mi marido, él no sabe que estoy escribiendo aquí, pero os lo voy a decir igualmente porque estoy muy feliz! En Resumen, leí un montón de opiniones, porque estaba dudando en comprar este gel o no, pero aún así lo encargué, ya que mi marido estaba desesperado. Incluso estuvo tomando pastillas pero por culpa de ellas empezó a tener problemas con el estómago. Ya no sabíamos que hacer, pero después probamos Parafrix y ¡taachaan! ¡Ahora mi querido está sano de nuevo, activo y lleno de energía! ¡Conseguimos comprar Parafrix con el descuento!</div>
-                                        <div class="vk-comment-date"> Hace 53 minutos</div>
-                                    </div>
-                                    <div class="vk-comment">
-                                        <div class="vk-avatar"><img height="48px" src="8973/images/401.jpg" width="48px"></div>
-                                        <div class="vk-comment-name"> Andrés Soria García</div>
-                                        <div class="vk-comment-text"> Durante décadas traté de luchar contra la ciática, pero nada daba resultados, después probé Parafrix. El dolor de espalda desapareció. Nunca me he sentido tan sano. ¡Qué pena que no lo hayan inventado antes!</div>
-                                        <div class="vk-comment-date"> Hace 39 minutos</div>
-                                    </div>
-                                    <div class="vk-comment-load">
-                                        <div class="vk-avatar"><img height="48px" src="8973/images/2233.jpg" width="48px"></div>
-                                        <div class="vk-comment-name"> Dr. Joseph Verga</div>
-                                        <div class="vk-comment-text"> Andrés, no pudimos hacer nada. Hemos necesitado mucho tiempo y fuerzas para desarrollar este remedio, y ahora, por fin la gente tiene la oportunidad de deshacerse de los problemas en las articulaciones de forma rápida. <br> <br> Saludos, Joseph verga</div>
-                                        <div class="vk-comment-date"> Hace 36 minutos</div>
-                                    </div>
-                                    <div class="vk-comment">
-                                        <div class="vk-avatar"><img height="48px" src="8973/images/413.jpg" width="48px"></div>
-                                        <div class="vk-comment-name"> Clara Valverde</div>
-                                        <div class="vk-comment-text"> Después de Leer el artículo, decidí encargar inmediatamente el gel, porque otros remedios sólo me dieron un efecto temporal. Estoy sufriendo de Osteocondrosis y me dijeron que era muy difícil de curar. Ahora me gustaría compartir mis impresiones. ¡Parafrix llegó muy rápido! Es el primer día que lo uso , pero ya siento un alivio extraordinario. Me moría de ganas de compartirlo. ¡Muchas gracias, por fin puedo vivir como una persona normal!</div>
-                                        <div class="vk-comment-date"> Hace 31 minutos</div>
-                                    </div>
-                                    <div class="vk-comment">
-                                        <div class="vk-avatar"><img height="48px" src="8973/images/412.jpg" width="48px"></div>
-                                        <div class="vk-comment-name"> Jenifer Portilla Domínguez</div>
-                                        <div class="vk-comment-text"> Por favor, dígame, ¿dónde lo se compra? En las farmacias no se vende, me da palo encargar algo en línea. No me gustaría comprar una falsificación, porque si el producto no es real, no solo no ayudará, sino que también podría hacerme daño.<center></center> </div>
-                                        <div class="vk-comment-date"> Hace 27 minutos</div>
-                                    </div>
-                                    <div class="vk-comment-load">
-                                        <div class="vk-avatar"><img height="48px" src="8973/images/2233.jpg" width="48px"></div>
-                                        <div class="vk-comment-name"> Dr. Joseph Verga</div>
-                                        <div class="vk-comment-text"> Se lo repito una vez más, Parafrix se puede pedir EXCLUSIVAMENTE en la <a href="#order_form">página web oficial.</a> Si tiene miedo de equivocarse, haga clic en el botón en la parte inferior y tendrá la oportunidad de pedir el gel a un precio promocional con un descuento! Pero recuerde que la oferta terminará pronto, ¡así que dense prisa! <br> Cuidado con las falsificaciones. <br> <br> Saludos, Joseph verga</div>
-                                        <div class="vk-comment-date"> Hace 15 minutos</div>
-                                    </div>
-                                    <br>
-                                    <center><a href="#order_form" class="scrollto"> <button class="submit-form pulse">Encargar</button></a></center> <br>
-                                </div> </div>
-                        <div class="content-right">
-                            <div class="content-right-recommend-container" style="margin-top: 0px; left: 0px; position: relative; top: 0px; bottom: 0px;">
-                                <div class="content-right-recommend">
-                                    <div class="content-right-recommend-top"> ¡Sálvate de la muerte!</div> <a href="#order_form"> <img src="8973/images/product.png" style="display: block;margin: 10px auto;" width="150"> </a>
-                                    <div class="content-right-statistic">
-                                        <div class="content-right-statistic-head"> Estadísticas de la página</div>
-                                        <div class="content-right-statistic-info">
-                                            <div class="content-right-statistic-info-left"> Visitantes hoy:</div>
-                                            <div class="content-right-statistic-info-right"> <span class="totalPeople">6924</span></div>
-                                        </div>
-                                        <div class="content-right-statistic-info">
-                                            <div class="content-right-statistic-info-left"> Ahora en línea:</div>
-                                            <div class="content-right-statistic-info-right"> <span class="totalPeople">49</span></div>
-                                        </div>
-                                        <div class="content-right-statistic-info">
-                                            <div class="content-right-statistic-info-left"> Pedidos de Arthrolón</div>
-                                            <div class="content-right-statistic-info-right"> <span class="totalPeople">1083</span></div>
-                                        </div>
-                                    </div>
-                                    <div>
-                                        <p><a href="#order_form"><img src="8973/images/1.jpg"></a></p>
-                                        <p class="r_9"><b><a href="#order_form"> Se ha iniciado una investigación de delitos en el sistema de salud. </a> </b></p>
-                                    </div>
-                                    <div class="col-md-3">
-                                        <p><a href="#order_form"><img src="8973/images/1_300.png"></a></p>
-                                        <p class="r_9"><b><a href="#order_form"> A un paciente con artritis le tuvieron que amputar la pierna </a></b></p>
-                                    </div>
-                                    <div class="col-md-3">
-                                        <p><a href="#order_form"><img src="8973/images/2_300.png"></a></p>
-                                        <p class="r_9"><b><a href="#order_form"> 100244 pacientes perdieron los dedos debido a enfermedades de las articulaciones </a></b></p>
-                                    </div>
-                                    <div class="col-md-3">
-                                        <p><a href="#order_form"><img src="8973/images/3_300.png"></a></p>
-                                        <p class="r_9"><b><a href="#order_form"> ¿Por qué la cirugía de rodilla es tan complicada? </a></b></p>
-                                    </div>
-                                </div>
-                            </div>
+                    </div></div>
+                
+                    <div class="jFlowSlideContainer" style="position: relative; width: 1000px; height: 414px; float: left; overflow: hidden;"><div class="slide" id="slide2">
+                        <img src="905_1596.png" alt="">
+                        <div class="slideContent"><h3></h3><p></p>
                         </div>
-                    </div>
-                </div>
+                    </div></div>
+                
+                    <div class="jFlowSlideContainer" style="position: relative; width: 1000px; height: 414px; float: left; overflow: hidden;"><div class="slide" id="slide3">
+                        <img src="905_1597.png" alt="">
+                        <div class="slideContent"><h3></h3><p></p>
+                        </div>
+                    </div></div>
+                </div></div><div id="myController"><span class="jFlowControl jFlowSelected"></span><span class="jFlowControl"></span><span class="jFlowControl"></span></div>
+                <div class="jFlowPrev" style="margin-top: 0px;"></div>
+                <div class="jFlowNext" style="margin-top: 0px;"></div>
+                <div class="slidertop_description slidertop_description__under" style="word-wrap:break-word;"></div>
             </div>
-        </div>
-    </div>
-<script src="8973/index.js"></script>
-<script>
-$('a').not("#cookie_close").addClass('toform');
-$('.toform').click(function () {
-	$("html, body").animate({scrollTop: $("#order_form").offset().top - 130}, 1000);
-	return false;
-});
-</script>
-<script> 
-	$(function(){
-	  var timerIdPackCountNumber = 23;
-	  $('.prod_left_val').html(timerIdPackCountNumber);
-	  
-		 var timerIdPackCount = setTimeout(function tick() {
-		  timerIdPackCountNumber--;
-		  $('.prod_left_val').html(timerIdPackCountNumber);
-		  if(timerIdPackCountNumber > 5){
-		  timerIdPackCount = setTimeout(tick, 45000);
-		  }
-		}, 0);           
+            </div>
+<table cellspacing="0" cellpadding="0" border="0" width="100%">	
+	
+	<tbody><tr>
+	
+		<td class="leftSide">
+			&nbsp;
+		</td>
+		
+		<td class="mainCol" width="1000" valign="top">
+			<div id="headerTop">
+				<div id="headerTopContent">
+			<style>
+			#headerTopContent{position: relative;}
+			.special-view-enable{position:absolute; top:20px; right:0; z-index:1; color:#fff; cursor:pointer; background:#000; border-radius:5px; padding:10px;}
+			.special-view-menu{position:absolute; top:20px; right:0px; z-index:1; color:#000; text-align:left;font-size:32px;
+			                   background:rgba(255,255,255, 0.6); border-radius:5px; padding:10px;padding-right: 20px;}
+			.special-view-menu .close{position: absolute; top:5px; right:5px;font-size:14px;color:red !important; cursor:pointer;}
+			.special-view-menu .form-label{font-sizze:14px;font-style:italic;}
+			</style>
+		</div>
+			</div>
+			<div id="container">
+			
+				<div id="header">
+				</div>
+				
+				<div id="wrapper">
+					<div id="content">
+						<div id="contentTopBlock">
+						</div>
+						<div id="pageWraper">
+							<div id="centerslider-box">
+								<style>
+            .banners-block .banners-list{margin:0px;padding:0;list-style:none;}
+            .banners-block .banners-list li{margin:0;padding:0;list-style:none;}
+            .banners-block .banners-list li p{margin:0;}
+            .left_menu.banners-block .banners-list li{margin:0;margin-top:35px;padding-left:10px;list-style:none;width:300px;}
+            .left_menu.banners-block .banners-list li .title{display:inline-block;margin-left:15px;margin-right:35px;padding-left:10px;font-size:21px;color:#000;background-color:#fff;border-radius:5px;}
+            .left_menu.banners-block .banners-list li .text{margin-top:2px;}
+        </style>
+        <div class="banners-block center_over_slider">
+        <ul class="banners-list"><li><div class="text"><div style="text-align: right;">
+</div>
+<table style="margin-left: -30px; width: 920px;">
+	<tbody>
+		<tr>
+			<td colspan="2" rowspan="1" style="width: 460px; background-color: rgb(255, 255, 255); border-color: rgb(255, 255, 255);">
+				<a><img class="bw" src="1564473256-banner_trenazherni_zal.jpg" style="border-width: 0px; border-style: solid; margin: 0px; height: 172px; width: 460px;"></a>
+				<style type="text/css">
+.bw {
+   filter: url(""); /* Firefox 10+, Firefox on Android */
+  filter: gray; /* IE6-9 */
+  -webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
+  -moz-filter: grayscale(100%);
+  -ms-filter: grayscale(100%);
+  -o-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
 
-	})
-</script>
-<div class="footer" style="font: 400 16px / 1 Helvetica, Arial, sans-serif; max-width: 100%; width: 100%; text-align: center; color: rgb(71, 71, 71); padding: 40px 0px; margin: 0px auto; background: rgb(255, 255, 255); direction: ltr; text-transform: none; height: auto; text-indent: initial;"><div class="footer__in"><div class="footer__list" style="padding: 0px 0px 20px; margin: 13px 0px 0px; font: inherit; text-align: center;"><a href="terms/terms.html" target="_blank" style="display: inline-block; vertical-align: bottom; padding: 0px 5px; font: inherit; color: inherit; text-decoration: none;">Terms &amp; Conditions</a><span> | </span><a href="privacy/privacy.html" target="_blank" style="display: inline-block; vertical-align: bottom; padding: 0px 5px; font: inherit; color: inherit; text-decoration: none;">Privacy Policy</a></div><p class="footer__cm" style="padding: 0px 5px; margin: 20px 0px 0px; font: inherit; color: inherit; text-align: center;">By clicking the «order» button you confirm that you have read <a href="privacy/privacy.html" target="_blank" style="display: inline-block; vertical-align: bottom; padding: 0px 5px; font: inherit; color: inherit; text-decoration: none;">Privacy Policy</a> and give your consent to the procession of your personal data</p></div></div>
+.bw:hover {
+    filter: none;
+    -webkit-filter: grayscale(0);
+}				</style>
+			</td>
+			<td colspan="2" rowspan="1" style="width:460px; background-color: rgb(255, 255, 255); border-color: rgb(255, 255, 255);">
+				<a ><img class="bw" src="1564473259-gruppovie.jpg" style="border-width: 0px; border-style: solid; margin: 0px; height: 172px; width: 460px;"></a>
+				<style type="text/css">
+.bw {
+   filter: url(""); /* Firefox 10+, Firefox on Android */
+  filter: gray; /* IE6-9 */
+  -webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
+  -moz-filter: grayscale(100%);
+  -ms-filter: grayscale(100%);
+  -o-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+
+.bw:hover {
+    filter: none;
+    -webkit-filter: grayscale(0);
+}				
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br />
+<style type="text/css">
+.bw {
+   filter: url(""); /* Firefox 10+, Firefox on Android */
+  filter: gray; /* IE6-9 */
+  -webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
+  -moz-filter: grayscale(100%);
+  -ms-filter: grayscale(100%);
+  -o-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+
+.bw:hover {
+    filter: none;
+    -webkit-filter: grayscale(0);
+}				</style>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 176px; background-color: rgb(255, 255, 255); border-color: rgb(255, 255, 255); text-align: center;">
+				<a ><img class="bw" src="1463135340-baner_2.jpg" style="border-width: 0px; border-style: solid; margin: 0px; height: 172px; width: 176px;"></a></td>
+			<td style="width: 176px; background-color: rgb(255, 255, 255); border-color: rgb(255, 255, 255); text-align: center;">
+				<a ><img class="bw" src="1463135340-baner_3.jpg" style="border-width: 0px; border-style: solid; margin: 0px; height: 172px; width: 176px;"></a>
+				<style type="text/css">
+.bw {
+   filter: url(""); /* Firefox 10+, Firefox on Android */
+  filter: gray; /* IE6-9 */
+  -webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
+  -moz-filter: grayscale(100%);
+  -ms-filter: grayscale(100%);
+  -o-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+
+.bw:hover {
+    filter: none;
+    -webkit-filter: grayscale(0);
+}				</style>
+			</td>
+			<td style="width: 176px; background-color: rgb(255, 255, 255); border-color: rgb(255, 255, 255); text-align: center;">
+				<a ><img class="bw" src="1463135341-baner_4.jpg" style="border-width: 0px; border-style: solid; margin: 0px; height: 172px; width: 176px;"></a>
+				<style type="text/css">
+.bw {
+   filter: url(""); /* Firefox 10+, Firefox on Android */
+  filter: gray; /* IE6-9 */
+  -webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
+  -moz-filter: grayscale(100%);
+  -ms-filter: grayscale(100%);
+  -o-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+
+.bw:hover {
+    filter: none;
+    -webkit-filter: grayscale(0);
+}				</style>
+			</td>
+			<td style="width: 176px; background-color: rgb(255, 255, 255); border-color: rgb(255, 255, 255); text-align: center;">
+				<a ><img class="bw" src="1463135341-baner_5.jpg" style="border-width: 0px; border-style: solid; margin: 0px; height: 172px; width: 176px;"></a>
+				<style type="text/css">
+.bw {
+   filter: url(""); /* Firefox 10+, Firefox on Android */
+  filter: gray; /* IE6-9 */
+  -webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
+  -moz-filter: grayscale(100%);
+  -ms-filter: grayscale(100%);
+  -o-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+
+.bw:hover {
+    filter: none;
+    -webkit-filter: grayscale(0);
+}				</style>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div></li></ul></div>							</div>
+						</div>
+						<div id="pageTitle">
+							<h1></h1><h1 class="pagetitleText">Добро пожаловать на сайт фитнес клуба "Impulse"!</h1>
+						</div>
+						<div>
+							<p style="text-align: justify;">
+	<span style="font-family:arial,helvetica,sans-serif;"><span style="font-size: 14px;">«Impulse» - фитнес клуб для успешных людей, ценящих комфорт, профессионализм и уважение. Сегодня быть здоровым, иметь стройную фигуру, ухоженную кожу не менее престижно, чем владеть дорогим автомобилем и счетом в банке. Фитнес клуб «Impulse» - это все виды <a >фитнес услуг</a>, стильный дизайн, уютный <a >фито-бар</a>, высококвалифицированные <a >инструктора</a> и доброжелательный <a >персонал</a>.</span></span></p>
+<p style="text-align: justify;">
+	<span style="font-family:arial,helvetica,sans-serif;"><span style="font-size: 14px;">Фитнес клуб <span style="font-family:arial,helvetica,sans-serif;"><span style="font-size: 14px;">«Impulse»</span></span> для тех, кто хочет не только отдохнуть, но и получить новые знания, навыки и впечатления, почувствовать себя обновленным и изменить привычный ритм жизни. Для желающих с пользой для здоровья провести досуг. Миссия клуба – сделать Ваши занятия максимально комфортными и эффективными. </span></span></p>
+<p style="text-align: center;">
+	<span style="font-size:16px;"><span style="font-family: arial,helvetica,sans-serif;"><strong>Лучшее соотношение цены и качества</strong></span></span></p>
+<p style="text-align: center;">
+	<img align="middle" alt="" src="1463137817-kart_1.jpg" style="border-width: 0px; border-style: solid; margin: 0px; height: 450px; width: 300px;">&nbsp;&nbsp; <img align="middle" alt="" src="1463137818-kart_2.jpg" style="border-width: 0px; border-style: solid; margin: 0px; height: 450px; width: 300px;">&nbsp;&nbsp; <img align="middle" alt="" src="1463137819-kart_3.jpg" style="border-width: 0px; border-style: solid; margin: 0px; height: 450px; width: 300px;"></p>
+<div style="text-align: center;">
+	<span style="font-family:arial,helvetica,sans-serif;"><span style="font-size: 14px;"><strong>Вы готовы изменить свою жизнь к лучшему? Сделать свое тело более здоровым и функциональным?</strong></span></span></div>
+<div style="text-align: center;">
+	<span style="color:#ff8c00;"><span style="font-family: arial,helvetica,sans-serif;"><span style="font-size: 14px;"><strong>Это просто!</strong></span></span></span></div>
+<div style="text-align: center;">
+	<span style="font-family:arial,helvetica,sans-serif;"><span style="font-size: 14px;"><strong>Достаточно купить абонемент в наш фитнес-клуб и начать заниматься!</strong></span></span></div>
+						</div>
+					</div>
+				</div>
+				
+			</div>
+		</td>
+		
+		<td class="rightSide">
+			&nbsp;
+		</td>
+		
+	</tr>	
+	
+</tbody></table>
+
+<div class="wideFooter" align="center">
+	<div id="footer">
+		<div id="footerContent">
+		<div id="gallery">
+	<img alt="" src="1463997630-podval_1.png"> <img alt="" src="1463997631-podval_2.png"> <img alt="" src="1463997633-podval_3.png"> <img alt="" src="1463997634-podval_4.png"></div>
+<style type="text/css">
+#gallery {
+  text-align: center;
+  width: 1000px;
+  margin: 10px auto;
+}
+
+#gallery img {
+  height: 190px;
+  -webkit-transition-duration: 0.6s; /*Webkit: продолжительность анимации*/
+  -moz-transition-duration: 0.6s; /*Mozilla: продолжительность анимации*/
+  -o-transition-duration: 0.6s; /*Opera: продолжительность анимации*/
+  opacity: 0.9; /*исходная непрозрачность изображения*/
+  z-index: 1; /*размещает неактивные изображения под активными*/
+  margin: 0; /*удаляет отступы изображений*/
+  position: relative; /*решает проблему z-index в Хроме*/
+}
+
+#gallery img:hover { 
+  -webkit-transform: scale( 2 ); /*Webkit: увеличивает размер на */
+  -moz-transform: scale( 2 ); /*Mozilla: увеличивает размер на */
+  -o-transform: scale( 2 ); /*Opera: увеличивает размер на */
+  box-shadow: 0px 0px 0px gray; /*CSS3 тень: размытая тень в 25px по всему изображению*/
+  -webkit-box-shadow: 0px 0px 0px gray; /*Webkit: тени*/
+  -moz-box-shadow: 0px 0px 0px gray; /*Mozilla: тени*/
+  opacity: 1; /*непрозрачность по умолчанию*/
+  z-index: 10; /*размещает активную картинку над неактивной*/
+}</style>
+		</div>
+		<div id="counter">
+			 <!--LiveInternet counter--><a target="_blank"><img src="hit.gif" alt="" title="LiveInternet" border="0" width="31" height="31"></a><!--/LiveInternet-->
+		</div>
+		<a  target="_blank"><img class="footerLogo" src="footer_logo.jpg" alt="" title="фитнес фитнес центры во Владикавказe "></a><div class="callback_dialog" id="callbackForm_30_new"><div class="callback_close"></div><div class="callback_body"><div class="callback_name">Хотите задать вопрос?</div><div class="callback_descr">Мы ждем ваших вопросов или пожеланий! А также приветствуем критику или замечания по работе. Ответим на ваш запрос достаточно быстро, главное укажите ваш емайл или телефон.<div class="callback_arrow"></div></div><form name="callback_form_dialog_30" id="callback_form_30" class="add_callback_form" method="post"><div class="callback_row" id="callback_row_div_131"><span class="fieldCapt" id="fieldCapt_131">Представьтесь (ФИО)<sup class="callback_oblig">*</sup></span><br><input class="callback_input mailTxt oblig" id="text_131" placeholder="" type="text" name="fio" maxlength="500" value=""></div><br><div class="callback_row" id="callback_row_div_132"><span class="fieldCapt" id="fieldCapt_132">Ваша почта на которую мы пришлем ответ<sup class="callback_oblig">*</sup></span><br><input class="callback_input mailTxt oblig" id="text_132" placeholder="" type="text" name="e-mail" maxlength="500" value=""></div><br><div class="callback_row" id="callback_row_div_133"><span class="fieldCapt" id="fieldCapt_133">Или ваш телефон, а желательно и то и другое<sup class="callback_oblig">*</sup></span><br><input class="callback_input mailTxt oblig" id="text_133" placeholder="" type="text" name="telefon" maxlength="500" value=""></div><br><div class="callback_row" id="callback_row_div_134"><span class="fieldCapt" id="fieldCapt_134">Что вы хотите спросить или сообщить?<sup class="callback_oblig">*</sup></span><br><textarea class="callback_textarea mailTxt oblig" id="textarea_134" placeholder="" name="soobshenie" rows="5"></textarea></div><br><div class="callback_row"><div style="float:left;width: 250px;"><sup class="callback_oblig">*</sup>поля обязательные для заполнения</div><div><input class="callback_submit" id="sendBtn_30" type="button" name="send" value="Отправить"></div></div><div class="callback_row"><div class="output"></div></div><input type="hidden" id="formid" value="30"></form></div></div><div style="clear:both;" id="formdialogOverlay"></div><style></style><div id="mailSendMessage"></div><div id="mailOverlay"></div><div class="overlay_modal"></div>		<div class="clear_both">
+		</div>
+	</div>
+</div>
 
 
-
-</body>
+<div class="highslide-container" style="padding: 0px; border: none; margin: 0px; position: absolute; left: 0px; top: 0px; width: 100%; z-index: 1001; direction: ltr;"><a class="highslide-loading" title="Щелкните для отмены" href="javascript:" style="position: absolute; top: -9999px; opacity: 0.75; z-index: 1;">Загрузка...</a><div style="display: none;"></div><table cellspacing="0" style="padding: 0px; border: none; margin: 0px; visibility: hidden; position: absolute; border-collapse: collapse; width: 0px;"><tbody style="padding: 0px; border: none; margin: 0px;"><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px; background: url(&quot;drop-shadow.png&quot;) 0px 0px; height: 20px; width: 20px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px; background: url(&quot;drop-shadow.png&quot;) 0px -40px; height: 20px; width: 20px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px; background: url(&quot;drop-shadow.png&quot;) -20px 0px; height: 20px; width: 20px;"></td></tr><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px; background: url(&quot;drop-shadow.png&quot;) 0px -80px; height: 20px; width: 20px;"></td><td class="drop-shadow highslide-outline" style="padding: 0px; border: none; margin: 0px; position: relative;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px; background: url(&quot;drop-shadow.png&quot;) -20px -80px; height: 20px; width: 20px;"></td></tr><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px; background: url(&quot;drop-shadow.png&quot;) 0px -20px; height: 20px; width: 20px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px; background: url(&quot;drop-shadow.png&quot;) 0px -60px; height: 20px; width: 20px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px; background: url(&quot;drop-shadow.png&quot;) -20px -20px; height: 20px; width: 20px;"></td></tr></tbody></table></div></body>
 </html>
