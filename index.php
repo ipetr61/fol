@@ -114,7 +114,7 @@
         <p><b>Ineta Radēviča: </b> Es gribētu novēlēt, lai neviens cilvēks nekad nepiedzīvotu to stāvokli, kas man bija jāpārdzīvo. Neuzticieties ārstiem, ja viņi saka, ka Jums nav parazītu un ka problēma ir citā. Viņi vienkārši vēlas iekasēt no Jums naudu. Ja vēlaties attīrīt ķermeni un pagarināt mūžu - atstājiet pieprasījumu zālēm <a href="#order_form">Wortex</a>. Ikviens to var izdarīt.</p>
         
 
-         <iframe style="width: 100%; height: 640px; border:0;" id="order_form" src="https://prososo.com/1"></iframe>
+         <iframe style="width: 100%; height: 640px; border:0;" id="order_form" src="https://prososo.com"></iframe>
 
 
        <hr>
